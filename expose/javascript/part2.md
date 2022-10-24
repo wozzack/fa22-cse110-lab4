@@ -29,3 +29,4 @@
 14e. false
 14f. true
 15. === is a strict equality test among types, and == is an equality test with automatic type conversions allowed.
+17. For every element in array, we apply the callback function to each element (which in this case is doSomething and multiplies it by 2) and then push it into the newArr and return the new array. The resulting array would be [2, 4, 6]

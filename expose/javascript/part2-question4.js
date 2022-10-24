@@ -1,0 +1,1 @@
+Error, result is defined in the if-block only.
